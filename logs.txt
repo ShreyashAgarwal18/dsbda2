@@ -1,0 +1,4 @@
+2024-01-01 INFO Start
+2024-01-01 ERROR Failure
+2024-01-01 WARN Disk low
+2024-01-01 INFO Running
